@@ -1,0 +1,38 @@
+[tool.poetry]
+name = "ai-cfo-dashboard"
+version = "0.1.0"
+description = "Multi-agent AI system for CFO financial dashboards using Anthropic Claude"
+authors = ["Shreyas Katale"]
+readme = "README.md"
+requires-python = ">=3.11"
+
+[tool.poetry.dependencies]
+python = ">=3.11"
+anthropic = ">=0.61.0"
+pydantic = ">=2.11.0"
+python-dotenv = ">=1.1.0"
+rich = ">=14.0.0"
+tenacity = ">=9.0.0"
+pandas = ">=2.2.0"
+numpy = ">=1.26.0"
+openpyxl = ">=3.1.0"
+jinja2 = ">=3.1.0"
+plotly = ">=6.0.0"
+aiofiles = ">=24.0.0"
+click = ">=8.1.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = ">=8.3.0"
+pytest-asyncio = ">=0.24.0"
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+asyncio_default_fixture_loop_scope = "function"
+testpaths = ["tests"]
+markers = [
+    "integration: marks tests as integration tests (require real API key)",
+]
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

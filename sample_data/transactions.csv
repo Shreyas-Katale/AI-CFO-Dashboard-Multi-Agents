@@ -1,0 +1,101 @@
+Date,Description,Amount,Category,Account
+2024-01-03,AWS Cloud Infrastructure,12450.00,SaaS Tools,Corporate Card
+2024-01-05,Employee Payroll - January,185000.00,Payroll,Operating Account
+2024-01-08,Office Rent - January,8500.00,Facilities,Operating Account
+01/10/2024,Google Workspace Licenses,2340.00,SaaS Tools,Corporate Card
+2024-01-12,Contractor Payment - Design,4500.00,Contractors,Operating Account
+2024-01-15,Customer Payment - Acme Corp,45000.00,Revenue,Revenue Account
+Jan 17 2024,Stripe Payment Processing Fees,890.00,Payment Processing,Operating Account
+2024-01-19,Team Lunch - Sales Kickoff,1250.00,Meals & Entertainment,Corporate Card
+2024-01-22,HubSpot CRM Annual Renewal,18000.00,SaaS Tools,Corporate Card
+2024-01-25,Customer Payment - Globex Inc,22500.00,Revenue,Revenue Account
+2024-01-28,Internet & Phone Bills,450.00,Utilities,Operating Account
+2024-01-30,Office Supplies,320.00,Office Supplies,Corporate Card
+02/01/2024,Employee Payroll - February,185000.00,Payroll,Operating Account
+2024-02-03,AWS Cloud Infrastructure,13100.00,SaaS Tools,Corporate Card
+Feb 05 2024,Office Rent - February,8500.00,Facilities,Operating Account
+2024-02-07,Customer Payment - Initech,31000.00,Revenue,Revenue Account
+2024-02-09,Legal Services - Contract Review,6500.00,Professional Services,Operating Account
+2024-02-12,GitHub Enterprise,1200.00,SaaS Tools,Corporate Card
+2024-02-14,Team Offsite - Valentine's,3200.00,Meals & Entertainment,Corporate Card
+02/15/2024,Customer Payment - Umbrella Corp,18750.00,Revenue,Revenue Account
+2024-02-18,Contractor Payment - Backend Dev,7200.00,Contractors,Operating Account
+2024-02-20,DataDog Monitoring,1890.00,SaaS Tools,Corporate Card
+2024-02-22,Customer Payment - Acme Corp,45000.00,Revenue,Revenue Account
+2024-02-25,Stripe Payment Processing Fees,1120.00,Payment Processing,Operating Account
+2024-02-27,Office Supplies,180.00,Office Supplies,Corporate Card
+2024-02-28,Internet & Phone Bills,450.00,Utilities,Operating Account
+2024-03-01,Employee Payroll - March,185000.00,Payroll,Operating Account
+03/04/2024,AWS Cloud Infrastructure,14200.00,SaaS Tools,Corporate Card
+2024-03-06,Office Rent - March,8500.00,Facilities,Operating Account
+2024-03-08,Customer Payment - Globex Inc,28000.00,Revenue,Revenue Account
+2024-03-11,Recruiting - LinkedIn Premium,2400.00,Recruiting,Corporate Card
+Mar 13 2024,Customer Payment - Hooli,55000.00,Revenue,Revenue Account
+2024-03-15,Legal Services - IP Filing,4200.00,Professional Services,Operating Account
+2024-03-18,Contractor Payment - Design,4500.00,Contractors,Operating Account
+03/20/2024,Slack Annual Renewal,4800.00,SaaS Tools,Corporate Card
+2024-03-22,Customer Payment - Initech,31000.00,Revenue,Revenue Account
+2024-03-25,Stripe Payment Processing Fees,1340.00,Payment Processing,Operating Account
+2024-03-27,Team Building Event,2100.00,Meals & Entertainment,Corporate Card
+2024-03-29,Internet & Phone Bills,450.00,Utilities,Operating Account
+2024-03-31,Office Supplies,240.00,Office Supplies,Corporate Card
+2024-04-01,Employee Payroll - April,192000.00,Payroll,Operating Account
+04/03/2024,AWS Cloud Infrastructure,14800.00,SaaS Tools,Corporate Card
+2024-04-05,Office Rent - April,8500.00,Facilities,Operating Account
+2024-04-07,Customer Payment - Acme Corp,45000.00,Revenue,Revenue Account
+Apr 09 2024,New Equipment Purchase - Laptops,28500.00,,Corporate Card
+2024-04-11,Customer Payment - Umbrella Corp,23500.00,Revenue,Revenue Account
+2024-04-13,Contractor Payment - ML Engineer,9600.00,Contractors,Operating Account
+2024-04-15,Zendesk Support Platform,3600.00,SaaS Tools,Corporate Card
+04/18/2024,Customer Payment - Globex Inc,28000.00,Revenue,Revenue Account
+2024-04-20,Figma Team License,1440.00,SaaS Tools,Corporate Card
+2024-04-22,Recruiting - Headhunter Fee,15000.00,Recruiting,Operating Account
+2024-04-24,Stripe Payment Processing Fees,1480.00,Payment Processing,Operating Account
+2024-04-26,Office Supplies,290.00,Office Supplies,Corporate Card
+2024-04-29,Internet & Phone Bills,450.00,Utilities,Operating Account
+2024-05-01,Employee Payroll - May,192000.00,Payroll,Operating Account
+May 03 2024,AWS Cloud Infrastructure,15400.00,SaaS Tools,Corporate Card
+2024-05-06,Office Rent - May,8500.00,Facilities,Operating Account
+2024-05-08,Customer Payment - Hooli,60000.00,Revenue,Revenue Account
+05/10/2024,Customer Payment - Acme Corp,45000.00,Revenue,Revenue Account
+2024-05-12,ANOMALY - Unauthorized Vendor,485000.00,Unknown,Corporate Card
+2024-05-13,Legal Services - Fundraising,12000.00,Professional Services,Operating Account
+2024-05-15,Customer Payment - Initech,31000.00,Revenue,Revenue Account
+May 16 2024,DataDog Monitoring,1890.00,SaaS Tools,Corporate Card
+2024-05-18,Contractor Payment - Backend Dev,7200.00,Contractors,Operating Account
+2024-05-20,Customer Payment - Umbrella Corp,25000.00,Revenue,Revenue Account
+05/22/2024,Stripe Payment Processing Fees,1620.00,Payment Processing,Operating Account
+2024-05-24,Recruiting - LinkedIn Premium,2400.00,Recruiting,Corporate Card
+2024-05-27,Team Dinner - Board Visit,4800.00,Meals & Entertainment,Corporate Card
+2024-05-29,Internet & Phone Bills,450.00,Utilities,Operating Account
+2024-05-31,Office Supplies,310.00,Office Supplies,Corporate Card
+2024-06-01,Employee Payroll - June,192000.00,Payroll,Operating Account
+Jun 03 2024,AWS Cloud Infrastructure,15900.00,SaaS Tools,Corporate Card
+2024-06-05,Office Rent - June,8500.00,Facilities,Operating Account
+2024-06-07,Customer Payment - Globex Inc,35000.00,Revenue,Revenue Account
+06/09/2024,Customer Payment - Acme Corp,45000.00,Revenue,Revenue Account
+2024-06-11,Contractor Payment - Design,4500.00,Contractors,Operating Account
+2024-06-13,Zoom Annual Renewal,2160.00,SaaS Tools,Corporate Card
+2024-06-13,Zoom Annual Renewal,2160.00,SaaS Tools,Corporate Card
+Jun 15 2024,Customer Payment - Hooli,65000.00,Revenue,Revenue Account
+2024-06-18,Legal Services - Contract Review,5500.00,Professional Services,Operating Account
+2024-06-20,Customer Payment - Initech,31000.00,Revenue,Revenue Account
+06/22/2024,Stripe Payment Processing Fees,1890.00,Payment Processing,Operating Account
+2024-06-24,Recruiting - Headhunter Fee,18000.00,Recruiting,Operating Account
+2024-06-26,Team Building - Summer,3500.00,Meals & Entertainment,Corporate Card
+2024-06-28,Internet & Phone Bills,450.00,Utilities,Operating Account
+2024-06-30,Office Supplies,275.00,Office Supplies,Corporate Card
+2024-06-30,Office Supplies,275.00,Office Supplies,Corporate Card
+2024-07-01,Employee Payroll - July,192000.00,Payroll,Operating Account
+Jul 03 2024,AWS Cloud Infrastructure,16200.00,SaaS Tools,Corporate Card
+2024-07-05,Office Rent - July,8500.00,Facilities,Operating Account
+2024-07-07,Customer Payment - Umbrella Corp,27500.00,Revenue,Revenue Account
+07/09/2024,Customer Payment - Acme Corp,45000.00,Revenue,Revenue Account
+2024-07-11,Contractor Payment - ML Engineer,9600.00,Contractors,Operating Account
+2024-07-14,Customer Payment - Globex Inc,35000.00,Revenue,Revenue Account
+2024-07-16,Notarization Fee,0.00,Professional Services,Corporate Card
+Jul 18 2024,Stripe Payment Processing Fees,1950.00,Payment Processing,Operating Account
+2024-07-20,HubSpot CRM Overage,4200.00,SaaS Tools,Corporate Card
+2024-07-22,Customer Payment - Hooli,65000.00,Revenue,Revenue Account
+2024-07-25,Internet & Phone Bills,450.00,Utilities,Operating Account
+2024-07-28,Office Supplies,195.00,Office Supplies,Corporate Card
